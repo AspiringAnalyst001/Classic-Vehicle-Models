@@ -1,0 +1,1 @@
+select * From sales_data_for_power_bi
